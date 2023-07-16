@@ -1,2 +1,2 @@
 # Crime-Capstone
-This Repository contains the evaluation project on India Crime that is given by Datatrained.
+This Repository contains the project in which analysis is done on  the topic "Crime in India"
